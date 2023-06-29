@@ -34,10 +34,12 @@ Save the changes to the script file.
 1. Open a terminal or command prompt and navigate to the directory where the script file is located.
 
 2. Run the script using the command:
+
     ```bash
     python twitter_dm_automation.py
     ```
-The script will authenticate with your Twitter account, retrieve the comments under the specified post, and send DMs to users who have commented "dm me".
+
+    The script will authenticate with your Twitter account, retrieve the comments under the specified post, and send DMs to users who have commented "dm me".
 
 3. Monitor the terminal or command prompt for the script's output. It will display the status of each DM sent or any errors that occur during the process.
 
@@ -47,7 +49,7 @@ The script will authenticate with your Twitter account, retrieve the comments un
 
 - Be cautious when automating actions on social media platforms. Ensure that you are not violating any platform policies or engaging in spammy behavior.
 
-- The Tweepy library provides powerful features for Twitter automation. Feel free to explore the library's documentation (https://docs.tweepy.org/) for more functionality or customization options.
+- The Tweepy library provides powerful features for Twitter automation. Feel free to explore the library's documentation (<https://docs.tweepy.org/>) for more functionality or customization options.
 
 - Remember to keep your Twitter API credentials secure and not share them publicly or commit them to version control systems.
 
@@ -57,4 +59,4 @@ Contributions to this script are welcome. If you have any suggestions, bug repor
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
